@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+  color: white;
+}
+
+.MuiTimeField-root .MuiOutlinedInput-input {
+  color: white !important;
+}
+
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border-color: white;
+}
+
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border: 2px solid white !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: white;
+}
+
+label.MuiFormLabel-root.MuiInputLabel-root {
+  color: #888888 !important;
+}
+
+.MuiTextField-root .MuiInputBase-input,
+.MuiTextField-root .MuiOutlinedInput-input {
+  color: #888888 !important;
+}

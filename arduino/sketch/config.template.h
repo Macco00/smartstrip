@@ -1,0 +1,6 @@
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define DATABASE_URL ""
+#define SERIAL_NUMBER ""
+#define FIREBASE_API_KEY ""
+#define FIREBASE_PASSWORD ""
